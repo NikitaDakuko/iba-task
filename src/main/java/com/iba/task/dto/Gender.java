@@ -1,4 +1,4 @@
-package com.mastery.java.task.dto;
+package com.iba.task.dto;
 
 public enum Gender {
     MALE,

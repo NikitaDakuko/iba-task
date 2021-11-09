@@ -1,4 +1,4 @@
-package com.mastery.java.task.rest;
+package com.iba.task.rest;
 
 public class EmployeeControllerTest {
 }
